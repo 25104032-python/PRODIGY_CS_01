@@ -37,9 +37,11 @@ Example
 Input
 
 Enter message: Hello World
+
 Enter shift value: 3
 
 Output
 
 Encrypted text: Khoor Zruog
+
 Decrypted text: Hello World
